@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.39734,0,0,1.35468,-221.843,-192.73)">
+        <rect x="158.76" y="142.27" width="715.644" height="738.184" style="fill:rgb(139,171,70);"/>
+    </g>
+    <g id="Layer2">
+        <g transform="matrix(1,0,0,1,0.265156,-5.87008)">
+            <path d="M617.306,357.6C666.855,306.579 723.186,396.3 626.695,462.366C579.906,494.401 595.826,379.717 617.306,357.6Z" style="fill:rgb(236,207,175);fill-opacity:0.99;stroke:rgb(81,81,81);stroke-width:10px;"/>
+        </g>
+        <g transform="matrix(-1,0,0,1,987.957,4.74833)">
+            <path d="M617.306,357.6C666.855,306.579 723.186,396.3 626.695,462.366C579.906,494.401 595.826,379.717 617.306,357.6Z" style="fill:rgb(236,207,175);fill-opacity:0.99;stroke:rgb(81,81,81);stroke-width:10px;"/>
+        </g>
+        <path d="M443.517,543.221C453.97,634.453 411.219,664.904 411.219,664.904L495.126,833.967L585.515,658.187C585.515,658.187 544.389,620.985 554.234,541.456C487.716,570.757 443.517,543.221 443.517,543.221Z" style="fill:rgb(236,207,175);fill-opacity:0.99;stroke:rgb(81,81,81);stroke-width:10px;"/>
+        <path d="M500,193.006C399.045,192.705 356.977,271.834 364.385,380.092C372.542,499.285 412.765,579.005 500,577.672C566.46,576.657 606.018,498.053 623.583,380.092C639.813,271.102 591.662,193.28 500,193.006Z" style="fill:rgb(236,207,175);fill-opacity:0.99;stroke:rgb(81,81,81);stroke-width:10px;"/>
+    </g>
+    <g id="Layer1">
+        <path d="M521.23,177.957C521.23,177.957 392.821,59.98 336.007,201.64C333.242,208.533 316.62,216.046 304.795,210.758C254.277,188.165 216.035,254.885 324.382,277.553C235.804,370.473 366.907,435.386 470.773,312.618C454.307,354.862 521.733,400.664 579.633,254.843C628.909,273.736 625.143,306.445 623.638,367.263C682.738,268.868 666.255,130.699 521.23,177.957Z" style="fill:rgb(163,94,0);fill-opacity:0.99;stroke:rgb(81,81,81);stroke-width:10px;"/>
+    </g>
+    <g id="Layer3" transform="matrix(-1,0,0,1,1010.27,0)">
+        <path d="M535.434,613.593C535.434,613.593 581.007,651.832 626.695,657.116C681.521,663.458 782.263,594.182 805.355,1044.93C703.22,1061.56 547.562,1058.43 474.732,1039.86C437.915,854.615 535.434,613.593 535.434,613.593Z" style="fill:rgb(52,76,0);fill-opacity:0.99;stroke:rgb(46,46,46);stroke-width:10px;"/>
+        <path d="M531.461,613.593L573.685,577.689L596.607,639.493L566.721,694.43L531.461,613.593Z" style="fill:rgb(52,76,0);fill-opacity:0.99;stroke:rgb(46,46,46);stroke-width:10px;"/>
+    </g>
+    <g id="Layer31" serif:id="Layer3" transform="matrix(1,0,0,1,-11.0928,0)">
+        <path d="M535.434,613.593C535.434,613.593 581.007,651.832 626.695,657.116C681.521,663.458 806.498,589.315 799.799,1049.03C697.664,1065.66 562.848,1060.9 490.018,1042.33C488.131,722.407 508.972,742.594 535.434,613.593Z" style="fill:rgb(52,76,0);fill-opacity:0.99;stroke:rgb(46,46,46);stroke-width:10px;"/>
+        <g transform="matrix(2.78468,0,0,2.78468,-914.021,-1383.45)">
+            <circle cx="517.05" cy="781.866" r="1.792" style="fill:rgb(46,46,46);fill-opacity:0.99;"/>
+        </g>
+        <g transform="matrix(2.78468,0,0,2.78468,-914.021,-1323.29)">
+            <circle cx="517.05" cy="781.866" r="1.792" style="fill:rgb(46,46,46);fill-opacity:0.99;"/>
+        </g>
+        <g transform="matrix(2.78468,0,0,2.78468,-914.021,-1263.48)">
+            <circle cx="517.05" cy="781.866" r="1.792" style="fill:rgb(46,46,46);fill-opacity:0.99;"/>
+        </g>
+        <g transform="matrix(2.78468,0,0,2.78468,-914.021,-1204.33)">
+            <circle cx="517.05" cy="781.866" r="1.792" style="fill:rgb(46,46,46);fill-opacity:0.99;"/>
+        </g>
+        <path d="M530.784,613.593L573.685,577.689L596.607,639.493L566.721,694.43L530.784,613.593Z" style="fill:rgb(52,76,0);fill-opacity:0.99;stroke:rgb(46,46,46);stroke-width:10px;"/>
+    </g>
+    <g id="Layer4">
+    </g>
+</svg>

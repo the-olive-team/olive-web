@@ -12,11 +12,11 @@ import {
   Cog6ToothIcon,
   DocumentTextIcon,
   Squares2X2Icon,
-  UserCircleIcon,
 } from '@heroicons/react/24/outline';
 import { useState } from 'react';
+import { UserCircleIcon } from '@heroicons/react/24/solid';
 
-const playfair_display = Playfair_Display({ subsets: ['latin'] });
+const playfairDisplay = Playfair_Display({ subsets: ['latin'] });
 
 export default function Navbar() {
   const [showNav, setShowNav] = useState(false);
@@ -24,7 +24,7 @@ export default function Navbar() {
   return (
     <nav
       className={clsx(
-        playfair_display.className,
+        playfairDisplay.className,
         'block md:flex items-end px-5 py-5 justify-between text-neutral-600'
       )}
     >
@@ -53,7 +53,7 @@ export default function Navbar() {
       <div
         className={clsx(
           showNav ? 'flex' : 'hidden md:flex',
-          'flex-col text-lg md:flex-row gap-2 md:gap-6 items-center pb-2 mt-5 md:mt-0'
+          'bg-neutral-50 md:bg-transparent border border-neutral-300 md:border-none rounded-lg flex-col text-lg md:flex-row gap-2 md:gap-6 items-center pt-2 pb-4 mt-5 md:mt-0'
         )}
       >
         <Link
@@ -95,9 +95,8 @@ export default function Navbar() {
         <div className="hidden md:block">
           <Menu>
             <MenuButton className="flex items-center">
-              <UserCircleIcon className="size-8" />
+              <UserCircleIcon className="size-8 text-neutral-500" />
               <ChevronDownIcon className="size-4 stroke-[3px]" />
-              {/* <Icon name="arrow_drop_down" /> */}
             </MenuButton>
             <MenuItems
               transition
@@ -107,7 +106,10 @@ export default function Navbar() {
               <MenuItem>
                 <Link
                   href="/account"
-                  className="transition duration-100 group flex w-full items-center gap-2 rounded-lg py-2 px-4 data-[focus]:bg-neutral-200 data-[focus]:text-neutral-800"
+                  className={clsx(
+                    playfairDisplay.className,
+                    'transition duration-100 group flex w-full items-center gap-2 rounded-lg py-2 px-4 data-[focus]:bg-neutral-200 data-[focus]:text-neutral-800'
+                  )}
                 >
                   <Cog6ToothIcon className="size-4" />
                   Account Settings
